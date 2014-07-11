@@ -12,4 +12,21 @@
 
 #credit {
 	color:#ACACAC;
+	font-size: .85em;
 }
+
+#highlight {
+	color:#1F4EA3;
+	font-weight:200;
+	background-color:#D2D9F4;
+	padding: 5px;
+	border: 1px solid;
+	border-color:#1F4EA3;
+	border-radius: 5px;
+}
+
+img.moon {
+	width: 100%;
+	margin-bottom: -300px;
+
+	}
