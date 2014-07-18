@@ -3,15 +3,15 @@
 
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.openwebby.hello"
-    version     = "1.0.0"
-    versionCode = "10" >
+    version     = "1.1.0"
+    versionCode = "11" >
 
     <!-- versionCode is optional and Android only -->
 
     <name>openwebby</name>
 
     <description>
-    A simple native mobile app build for openwebby.
+    The Android app for openwebby.
     </description>
 
     <author href="http://openwebby.com" email="greg@openwebby.com">
